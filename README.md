@@ -86,17 +86,17 @@ X_n1_1 = Scaler.transform(X_n1)
 ai_model.predict(X_n1_1)
 ```
 ## Dataset Information:
-![out2](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/b6411e79-68dd-469f-afb1-a99da9ca727b)
+![image](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/d9810af4-fa3b-4451-8965-e5b273bafb3d)
 
 ## OUTPUT:
 ### Training Loss Vs Iteration Plot
-![out3](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/7dd86522-ecc3-452c-87ba-b9aeda7d091b)
+![image](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/ed0d0335-6cda-4f28-9ae6-17f1311a12f4)
 
 ### Test Data Root Mean Squared Error
-![out4](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/0921daf2-014a-4ecf-99bd-255403e3a51d)
+![image](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/16bdb7c5-0ced-46b1-83c3-c98bff14e139)
 
 ### New Sample Data Prediction
-![out5](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/f47edad2-0c63-4974-b7b7-74144268ff76)
+![image](https://github.com/AbishekAnand15/basic-nn-model/assets/118706942/9b6df665-9b8b-40fb-9e90-1aad64676444)
 
 ## RESULT
 A neural network regression model for the given dataset has been developed successfully.
