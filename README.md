@@ -1,4 +1,4 @@
-# Developing a Neural Network Regression Model
+# EX 01 Developing a Neural Network Regression Model
 ### Name: Abishek Xavier A
 ### Reference No: 212222230004
 ## AIM:
